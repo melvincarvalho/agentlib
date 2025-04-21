@@ -1,0 +1,19 @@
+{
+  "name": "agentlib",
+  "version": "0.0.1",
+  "description": "agentlib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvincarvalho/agentlib.git"
+  },
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvincarvalho/agentlib/issues"
+  },
+  "homepage": "https://github.com/melvincarvalho/agentlib#readme"
+}
